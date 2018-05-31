@@ -18,4 +18,6 @@ def using_last(array)
   return array.last
 end
 
-def
+def using_size(array)
+  return array.size
+end
